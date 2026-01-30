@@ -68,3 +68,5 @@ kubectl logs -l run=hello-kubernetes
 ```sh
 gcloud container clusters delete my-cluster
 ```
+
+
